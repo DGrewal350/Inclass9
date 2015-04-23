@@ -1,0 +1,7 @@
+Observations.txt
+
+The bush.java class can be elminated.
+In BunnyHunt i think it would be better to make the 20 a constant at the top to make it more easily changable.
+A lot of the constants should be final across all files.
+The wolf decideMove() should override animal decideMove().
+Line 347 new integer construct can be deleted.
